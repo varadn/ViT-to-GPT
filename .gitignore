@@ -1,0 +1,7 @@
+
+.DS_Store
+*.jpg
+*.zip
+data/*
+processed_train/*
+processed_val/*

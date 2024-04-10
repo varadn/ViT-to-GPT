@@ -5,3 +5,5 @@
 data/*
 processed_train/*
 processed_val/*
+wandb/*
+models/*

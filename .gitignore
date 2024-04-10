@@ -7,3 +7,4 @@ processed_train/*
 processed_val/*
 wandb/*
 models/*
+image-captioning-output/*
